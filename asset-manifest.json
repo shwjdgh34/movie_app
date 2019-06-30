@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movie_app/static/css/main.b8cdd4c2.chunk.css",
+    "main.js": "/movie_app/static/js/main.da4b2d48.chunk.js",
+    "main.js.map": "/movie_app/static/js/main.da4b2d48.chunk.js.map",
+    "runtime~main.js": "/movie_app/static/js/runtime~main.175dda75.js",
+    "runtime~main.js.map": "/movie_app/static/js/runtime~main.175dda75.js.map",
+    "static/js/2.7b834e7d.chunk.js": "/movie_app/static/js/2.7b834e7d.chunk.js",
+    "static/js/2.7b834e7d.chunk.js.map": "/movie_app/static/js/2.7b834e7d.chunk.js.map",
+    "index.html": "/movie_app/index.html",
+    "precache-manifest.41f8ef8c58da33a4dfa34326c13ab267.js": "/movie_app/precache-manifest.41f8ef8c58da33a4dfa34326c13ab267.js",
+    "service-worker.js": "/movie_app/service-worker.js",
+    "static/css/main.b8cdd4c2.chunk.css.map": "/movie_app/static/css/main.b8cdd4c2.chunk.css.map"
+  }
+}
